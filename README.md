@@ -1,2 +1,2 @@
-# You-are-not-welcom-here
+# You-are-not-welcome-here
 first repository, do whatever, ignore the name of the repo.
